@@ -369,47 +369,7 @@ The project therefore progresses from **raw engagement information** to a comple
 * Transcript-based LLM guidance demonstrated
 * Final project workflow completed
 
----
-
-# 🔄 Overall 15-Day Development Journey
-
-The 15-day work can be summarized as the following progression:
-
-```text
-Student Engagement Data
-        ↓
-Student Segmentation
-        ↓
-Student Profiles
-        ↓
-Lecture Transcripts
-        ↓
-Course Knowledge Base
-        ↓
-Information Retrieval
-        ↓
-Personalized Prompt Design
-        ↓
-LLM Course Assistant
-        ↓
-Profile-Based Testing
-        ↓
-Personalization Evaluation
-        ↓
-Recommendation Improvement
-        ↓
-Personalized Learning Paths
-        ↓
-Interactive Interface
-        ↓
-Full System Integration
-        ↓
-Profile Validation
-        ↓
-Final Course Assistant Demonstration
-```
-
-## 🎯 Final Project Outcome
+Final Project Outcome
 
 At the end of the 15-day development process, the project establishes a personalized **LLM-based course-guidance system** that combines student engagement analysis with course knowledge derived from lecture transcripts.
 
@@ -417,27 +377,8 @@ The system is designed to understand different student profiles, retrieve releva
 
 The project demonstrates how **student analytics + transcript-based knowledge + retrieval + prompt engineering + LLMs + user interaction** can be combined to create an intelligent learning-support system.
 
----
 
-## 🧩 Key Components Developed
-
-| Component                     | Purpose                                           |
-| ----------------------------- | ------------------------------------------------- |
-| Student Engagement Analysis   | Understand student learning behaviour             |
-| Student Segmentation          | Group students based on engagement                |
-| Lecture Transcript Processing | Convert lecture content into usable knowledge     |
-| Course Knowledge Base         | Organize course information                       |
-| Information Retrieval         | Find relevant course content                      |
-| Prompt Engineering            | Provide student and course context to the LLM     |
-| LLM Course Assistant          | Generate course-related responses                 |
-| Personalization               | Adapt guidance to different students              |
-| Recommendation Evaluation     | Check relevance of recommendations                |
-| Learning Path Generation      | Suggest personalized learning progression         |
-| Interactive Interface         | Allow students to interact with the assistant     |
-| System Integration            | Combine all components into one workflow          |
-| Validation                    | Test the system across different student profiles |
-
-## 🏁 Conclusion
+🏁 Conclusion
 
 This 15-day project follows a progressive development approach, beginning with **student engagement segmentation** and gradually developing into an **interactive personalized LLM course assistant**.
 
